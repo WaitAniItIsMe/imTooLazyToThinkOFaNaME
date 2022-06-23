@@ -1,0 +1,31 @@
+body{
+    background-size:cover;
+}
+
+#heading{
+    font-size: 40px;
+    width: 100%;
+    padding: 10px;
+    margin: 0px;
+}
+
+.copyright_stuff{
+    color: rgb(0, 0, 0);
+    position:fixed;
+    bottom:0px;
+    width:100%;
+    background-color: rgba(195, 253, 215, 0.668);
+    text-align: center;
+    line-height: 3;
+}
+
+canvas{
+    border: 4px dashed black;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px rgb(140, 98, 245);
+    margin-top: 180px
+}
+
+#objectName{
+    width: 30%;
+}
